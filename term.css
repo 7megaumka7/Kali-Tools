@@ -1,0 +1,22 @@
+.terminal-container {
+    width: 100%;
+    margin: 0;
+    padding: 1rem;
+    background-color: #2e3436; 
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.3);
+  }
+  .terminal {
+    width: 100%;
+    min-height: 200px;
+    color: #55ff55; 
+    background-color: transparent;
+    border: none;
+    outline: none;
+    resize: none;
+    padding: 0.5rem;
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 14px;
+    white-space: pre-wrap;
+  }
+  
